@@ -1,0 +1,286 @@
+,State,Station,Spoke ,address,gmap_latitude,gmap_longitude
+0,Telangana,Warangal,FMCG-WARANGAL - ER,"Warangal, Telangana",17.9689008,79.59405439999999
+1,Telangana,Alair,FMCG-ALAIR - ER,"Alair, Telangana",17.6437392,79.0430485
+2,Telangana,Mahabubabad,FMCG-MAHABUBABAD - ER,"Mahabubabad, Telangana",17.602625,80.00361989999999
+3,Telangana,Shadnagar,FMCG-SHADNAGAR - ER,"Shadnagar, Telangana",17.0712949,78.2058966
+4,Telangana,Wanaparthy,FMCG-WANAPARTHY - ER,"Wanaparthy, Telangana",16.3623118,78.0621824
+5,Telangana,NIZAMABAD (TELANGANA),FMCG-NIZAMABAD - ER,"NIZAMABAD (TELANGANA), Telangana",18.6725047,78.09408669999999
+6,Telangana,Karimnagar,FMCG-KARIMNAGAR - ER,"Karimnagar, Telangana",18.4385553,79.1288412
+7,Telangana,Nalgonda,FMCG-NALGONDA - ER,"Nalgonda, Telangana",17.0574663,79.26841689999999
+8,Telangana,Suryapet,FMCG-SURYAPET - ER,"Suryapet, Telangana",17.1313756,79.6336242
+9,Telangana,Kalwakurthy,FMCG-KALWAKURTHY - ER,"Kalwakurthy, Telangana",16.6684995,78.4906395
+10,Telangana,Siddipet,FMCG-SIDDIPET - ER,"Siddipet, Telangana",18.1017996,78.8519601
+11,Telangana,Khammam,FMCG-KHAMMAM - ER,"Khammam, Telangana",17.2472528,80.1514447
+12,Telangana,Medak,FMCG-MEDAK - ER,"Medak, Telangana",18.0529357,78.261853
+13,Tamil Nadu,Alangudi,FMCG-ALANKUDI - ER,"Alangudi, Tamil Nadu",10.3611135,78.97959999999999
+14,Tamil Nadu,Mayiladuthurai,FMCG-MAYILADUTHURAI - ER,"Mayiladuthurai, Tamil Nadu",11.1017705,79.6525686
+15,Tamil Nadu,Manapparai,FMCG-MANAPARAI - ER,"Manapparai, Tamil Nadu",10.6089324,78.42332669999999
+16,Tamil Nadu,Ariyalur,FMCG-ARIYALUR - ER,"Ariyalur, Tamil Nadu",11.1400585,79.0786281
+17,Tamil Nadu,Tiruvannamalai,FMCG-TIRUVANNAMALAI - ER,"Tiruvannamalai, Tamil Nadu",12.2252841,79.07469569999999
+18,Tamil Nadu,Vellore,FMCG-VELLORE - ER,"Vellore, Tamil Nadu",12.9165167,79.13249859999999
+19,Tamil Nadu,Villupuram,FMCG-VILUPPURAM - ER,"Villupuram, Tamil Nadu",11.9401378,79.4861449
+20,Tamil Nadu,Mannargudi,FMCG-MANNARGUDI - ER,"Mannargudi, Tamil Nadu",10.6648689,79.45071519999999
+21,Tamil Nadu,Dindigul,FMCG-DINDIGUL - ER,"Dindigul, Tamil Nadu",10.3623794,77.9694579
+22,Tamil Nadu,Sankarankoil,FMCG-SANKARANKOLI - ER,"Sankarankoil, Tamil Nadu",9.177796599999999,77.5351242
+23,Tamil Nadu,Aruppukkottai,FMCG-ARUPPUKKOTTAI - ER,"Aruppukkottai, Tamil Nadu",9.5139114,78.100168
+24,Tamil Nadu,Usilampatti,FMCG-USILAMPATTI - ER,"Usilampatti, Tamil Nadu",9.9651242,77.78850039999999
+25,Tamil Nadu,Krishnagiri,FMCG-KRISHNAGIRI - ER,"Krishnagiri, Tamil Nadu",12.5265661,78.2149575
+26,Tamil Nadu,Kallakkurichi,FMCG-KALLAKKURICHI - ER,"Kallakkurichi, Tamil Nadu",11.7383735,78.9638899
+27,Tamil Nadu,Kancheepuram,FMCG-KANCHEEPURAM - ER,"Kancheepuram, Tamil Nadu",12.818456,79.6946586
+28,Tamil Nadu,Tirunelveli,FMCG-TIRUNELVELI - ER,"Tirunelveli, Tamil Nadu",8.715017999999999,77.765628
+29,Tamil Nadu,Virudhachalam,FMCG-VIRUDHACHALAM - ER,"Virudhachalam, Tamil Nadu",11.515868,79.3268894
+30,Tamil Nadu,Paramakudi,FMCG-PARAMAKUDI - ER,"Paramakudi, Tamil Nadu",9.5493536,78.5890663
+31,Tamil Nadu,Dharmapuri,FMCG-DHARMAPURI - ER,"Dharmapuri, Tamil Nadu",12.1210997,78.1582143
+32,Tamil Nadu,Salem,FMCG-SALEM - ER,"Salem, Tamil Nadu",11.664325,78.1460142
+33,Tamil Nadu,Namakkal,FMCG-NAMAKKAL - ER,"Namakkal, Tamil Nadu",11.2193848,78.16784179999999
+34,Tamil Nadu,Melur,FMCG-MELUR - ER,"Melur, Tamil Nadu",10.0312879,78.33821170000002
+35,Tamil Nadu,Karaikudi,FMCG-KARAIKUDI - ER,"Karaikudi, Tamil Nadu",10.07354,78.773198
+36,Tamil Nadu,Karunguzhi,FMCG-KARUNGUZHI - ER,"Karunguzhi, Tamil Nadu",12.5319246,79.90391939999999
+37,Tamil Nadu,Pollachi,FMCG-POLLACHI - ER,"Pollachi, Tamil Nadu",10.6608925,77.00475899999999
+38,Tamil Nadu,Karur,FMCG-KARUR - ER,"Karur, Tamil Nadu",10.9600778,78.07660360000001
+39,Tamil Nadu,Gobichettipalayam,FMCG-GOBICHETTIPALAYAM - ER,"Gobichettipalayam, Tamil Nadu",11.4549451,77.4365196
+40,Tamil Nadu,Periyapalayam,FMCG-PERIYAPALAYAM - ER,"Periyapalayam, Tamil Nadu",13.3104613,80.04703339999999
+41,Tamil Nadu,Vandavasi,FMCG-VANDAVASI - ER,"Vandavasi, Tamil Nadu",12.5028829,79.60248000000001
+42,Tamil Nadu,Tiruchirapally,FMCG-TIRUCHIRAPPALLI - ER,"Tiruchirapally, Tamil Nadu",10.7904833,78.7046725
+43,Karnataka,Raichur,FMCG-RAICHUR - ER,"Raichur, Karnataka",16.216018,77.3565608
+44,Karnataka,Kadur,FMCG-KADUR - ER,"Kadur, Karnataka",13.5485598,76.00842589999999
+45,Karnataka,Davangere,FMCG-DAVANGERE - ER,"Davangere, Karnataka",14.4644085,75.921758
+46,Karnataka,Sindhanur,FMCG-SINDHNUR - ER,"Sindhanur, Karnataka",15.7702099,76.7560495
+47,Karnataka,Tumkur,FMCG-TUMKUR - ER,"Tumkur, Karnataka",13.3378762,77.117325
+48,Karnataka,Belgaum,FMCG-BELGAUM - ER,"Belgaum, Karnataka",15.8496953,74.4976741
+49,Karnataka,Hospet,FMCG-HOSPET - ER,"Hospet, Karnataka",15.2688542,76.39092409999999
+50,Karnataka,Puttur,FMCG-PUTTUR - ER,"Puttur, Karnataka",12.7686756,75.2070644
+51,Karnataka,Karkal,FMCG-KARKAL - ER,"Karkal, Karnataka",13.2150997,74.9961799
+52,Karnataka,Shimoga,FMCG-SHIMOGA - ER,"Shimoga, Karnataka",13.9299299,75.568101
+53,Karnataka,Gadag,FMCG-GADAG - ER,"Gadag, Karnataka",15.4315406,75.63551489999999
+54,Karnataka,Gulbarga,FMCG-GULBARGA - ER,"Gulbarga, Karnataka",17.329731,76.8342957
+55,Karnataka,Hunsur,FMCG-HUNSUR - ER,"Hunsur, Karnataka",12.3090923,76.28327929999999
+56,Karnataka,Chikkaballapura,FMCG-CHIKKABALLAPURA - ER,"Chikkaballapura, Karnataka",13.4354985,77.7315344
+57,Karnataka,Yadgir,FMCG-YADGIR - ER,"Yadgir, Karnataka",16.748739,77.130872
+58,Karnataka,Hubli,FMCG-HUBLI - ER,"Hubli, Karnataka",15.3647083,75.1239547
+59,Karnataka,Hunasagi,FMCG-HUNASAGI - ER,"Hunasagi, Karnataka",16.4576868,76.5228101
+60,Karnataka,Tiptur,FMCG-TIPTUR - ER,"Tiptur, Karnataka",13.259273,76.4785708
+61,Karnataka,Nanjangud,FMCG-NANJANGUD - ER,"Nanjangud, Karnataka",12.1159697,76.678249
+62,Karnataka,Mandya,FMCG-MANDYA - ER,"Mandya, Karnataka",12.5218157,76.89514880000002
+63,Karnataka,Bijapur,FMCG-BIJAPUR - ER,"Bijapur, Karnataka",16.8301708,75.710031
+64,Karnataka,Badami,FMCG-BADAMI - ER,"Badami, Karnataka",15.918622,75.676082
+65,Karnataka,Challakere,FMCG-CHALLAKERE - ER,"Challakere, Karnataka",14.313395,76.6528225
+66,Karnataka,Ramnagara,FMCG-RAMNAGAR - ER,"Ramnagara, Karnataka",12.7208614,77.27989629999999
+67,Karnataka,Jamkhandi,FMCG-JAMKHANDI - ER,"Jamkhandi, Karnataka",16.5043199,75.2917512
+68,Karnataka,Sindagi,FMCG-SINDAGI - ER,"Sindagi, Karnataka",16.9172558,76.2334278
+69,Karnataka,Lingsugur,FMCG-LINGSUGUR - ER,"Lingsugur, Karnataka",16.1550404,76.5199195
+70,Karnataka,Humnabad,FMCG-HUMNABAD - ER,"Humnabad, Karnataka",17.7682755,77.1312586
+71,Andhra Pradesh,GUDIVADA (ANDHRA PRADESH),FMCG-GUDIVADA - ER,"GUDIVADA (ANDHRA PRADESH), Andhra Pradesh",16.4344461,80.9931388
+72,Andhra Pradesh,Mangalagiri,FMCG-MANGALAGIRI - ER,"Mangalagiri, Andhra Pradesh",16.4345712,80.5662454
+73,Andhra Pradesh,Narasannapeta,FMCG-NARASANNAPETA - ER,"Narasannapeta, Andhra Pradesh",18.4163638,84.0459255
+74,Andhra Pradesh,Tanuku,FMCG-TANUKU - ER,"Tanuku, Andhra Pradesh",16.7565815,81.6769714
+75,Andhra Pradesh,Anakapalle,FMCG-ANAKAPALLE - ER,"Anakapalle, Andhra Pradesh",17.6896435,83.0023634
+76,Andhra Pradesh,Srikalahasti,FMCG-SRIKALAHASTI - ER,"Srikalahasti, Andhra Pradesh",13.7527145,79.7066722
+77,Andhra Pradesh,PRODDATUR,FMCG-PRODDATUR - ER,"PRODDATUR, Andhra Pradesh",14.752624,78.5541053
+78,Andhra Pradesh,Chittoor,FMCG-CHITTOOR - ER,"Chittoor, Andhra Pradesh",13.217176,79.1003289
+79,Andhra Pradesh,TADPATRI,FMCG-TADIPATRI - ER,"TADPATRI, Andhra Pradesh",14.9091024,78.0092047
+80,Andhra Pradesh,Rayachoti,FMCG-RAYACHOTI - ER,"Rayachoti, Andhra Pradesh",14.0586263,78.7519382
+81,Andhra Pradesh,RAMACHANDRAPURAM,FMCG-DRAKSHARAMAM - ER,"RAMACHANDRAPURAM, Andhra Pradesh",16.8372408,82.03254009999999
+82,Andhra Pradesh,Nellimarla,FMCG-NELLIMARLA - ER,"Nellimarla, Andhra Pradesh",18.164904,83.4510164
+83,Andhra Pradesh,Penukonda,FMCG-PENUKONDA - ER,"Penukonda, Andhra Pradesh",14.0844312,77.5973233
+84,Andhra Pradesh,Markapur,FMCG-MARKAPUR - ER,"Markapur, Andhra Pradesh",15.7361535,79.269125
+85,Andhra Pradesh,Nellore,FMCG-NELLORE - ER,"Nellore, Andhra Pradesh",14.4425987,79.98645599999999
+86,Andhra Pradesh,Kandukur,FMCG-KANDUKUR - ER,"Kandukur, Andhra Pradesh",15.219717,79.9024779
+87,Andhra Pradesh,Narasaraopet,FMCG-NARASARAOPET - ER,"Narasaraopet, Andhra Pradesh",16.2359181,80.04964989999999
+88,Odisha,Cuttack,FMCG-CUTTACK - ER,"Cuttack, Odisha",20.462521,85.8829895
+89,Odisha,Rairangpur,FMCG-RAIRANGPUR - ER,"Rairangpur, Odisha",22.2709322,86.1700894
+90,Odisha,Anugul,FMCG-ANUGUL - ER,"Anugul, Odisha",20.8444033,85.1510818
+91,Odisha,Bhawanipatna,FMCG-BHAWANIPATNA - ER,"Bhawanipatna, Odisha",19.9074279,83.1641562
+92,Odisha,Berhampur,FMCG-BRAHMAPUR - ER,"Berhampur, Odisha",19.3149618,84.7940911
+93,Odisha,Sambalpur,FMCG-CO-SAMBALPUR - ER,"Sambalpur, Odisha",21.4668716,83.9811665
+94,Odisha,Mangalpur,FMCG-MANGALPUR - ER,"Mangalpur, Odisha",20.8096907,86.51860219999999
+95,Odisha,Boudh,FMCG-BOUDH - ER,"Boudh, Odisha",20.8418205,84.3200184
+96,Odisha,Balangir,FMCG-BALANGIR - ER,"Balangir, Odisha",20.7011108,83.4846069
+97,Odisha,Bhadrak,FMCG-BHADRAK - ER,"Bhadrak, Odisha",21.0573616,86.4962996
+98,Odisha,Jeypore,FMCG-JEYPORE - ER,"Jeypore, Odisha",18.8581426,82.57098649999999
+99,Odisha,Balugaon,FMCG-BALUGAON - ER,"Balugaon, Odisha",20.1783322,85.1129236
+100,Odisha,Gunupur,FMCG-GUNUPUR - ER,"Gunupur, Odisha",19.0754648,83.8128265
+101,Odisha,Kendrapara,FMCG-KENDRAPARA - ER,"Kendrapara, Odisha",20.5035205,86.4198804
+102,Odisha,Baleshwar,FMCG-BALESHWAR - ER,"Baleshwar, Odisha",21.4933578,86.9134794
+103,Odisha,Nayagarh,FMCG-NAYAGARH - ER,"Nayagarh, Odisha",20.1231332,85.1038426
+104,Odisha,Baripada,FMCG-BARIPADA - ER,"Baripada, Odisha",21.9319838,86.7465928
+105,Odisha,Bhanjanagar,FMCG-BHANJANAGAR - ER,"Bhanjanagar, Odisha",19.9358071,84.582481
+106,Karnataka,Haveri,FMCG-HAVERI - ER,"Haveri, Karnataka",14.7950698,75.39906739999999
+107,Karnataka,Sira,FMCG-SIRA - ER,"Sira, Karnataka",13.7451493,76.89796620000001
+108,Karnataka,Hassan,FMCG-HASSAN - ER,"Hassan, Karnataka",13.0033234,76.1003894
+109,Karnataka,Sagar (KR),FMCG-SAGARA - ER,"Sagar (KR), Karnataka",14.1670402,75.0403
+110,Jharkhand,Bagbera,FMCG-BAGBERA COLONY - ER,"Bagbera, Jharkhand",22.759344,86.19043239999999
+111,Jharkhand,Hazaribagh,FMCG-HAZARIBAGH - ER,"Hazaribagh, Jharkhand",23.9924669,85.3636758
+112,Jharkhand,Lohardagga,FMCG-LOHARDAGA - ER,"Lohardagga, Jharkhand",23.4409325,84.6845216
+113,Jharkhand,Medininagar,FMCG-MEDININAGAR - ER,"Medininagar, Jharkhand",24.0465121,84.07684619999999
+114,Jharkhand,Ranchi,FMCG-RANCHI - ER,"Ranchi, Jharkhand",23.3440997,85.309562
+115,Jharkhand,Khunti,FMCG-KHUNTI - ER,"Khunti, Jharkhand",23.0797595,85.2774207
+116,Jharkhand,Chatra,FMCG-CHATRA - ER,"Chatra, Jharkhand",24.2065446,84.871802
+117,Jharkhand,Ramgarh,FMCG-RAMGARH - ER,"Ramgarh, Jharkhand",23.6362593,85.5124209
+118,Bihar,Hilsa,FMCG-HILSA - ER,"Hilsa, Bihar",25.3188918,85.28323329999999
+119,Bihar,Bihta,FMCG-BIHTA - ER,"Bihta, Bihar",25.5535839,84.8692677
+120,Bihar,Hajipur,FMCG-HAJIPUR - ER,"Hajipur, Bihar",25.6924354,85.20832399999999
+121,Bihar,Arrah,FMCG-ARRAH - ER,"Arrah, Bihar",25.5541358,84.6664797
+122,Bihar,Sasaram,FMCG-SASARAM - ER,"Sasaram, Bihar",24.9538803,84.01428659999999
+123,Bihar,Gaya,FMCG-GAYA - ER,"Gaya, Bihar",24.7913957,85.0002336
+124,Bihar,Bhabhua,FMCG-BHABUA - ER,"Bhabhua, Bihar",25.0426227,83.6055732
+125,Bihar,Chapra,FMCG-CHAPRA - ER,"Chapra, Bihar",25.7811397,84.7543413
+126,Uttar Pradesh,Aligarh,FMCG-ALIGARH - ER,"Aligarh, Uttar Pradesh",27.8973944,78.0880129
+127,Uttar Pradesh,Haridwar,FMCG-HARIDWAR - ER,"Haridwar, Uttar Pradesh",29.9456906,78.16424780000001
+128,Uttar Pradesh,Bijnor,FMCG-BIJNOR - ER,"Bijnor, Uttar Pradesh",29.3731673,78.1350904
+129,Uttar Pradesh,Muzaffarnagar,FMCG-MUZAFFARNAGAR - ER,"Muzaffarnagar, Uttar Pradesh",29.4726817,77.7085091
+130,Uttar Pradesh,Moradabad,FMCG-MORADABAD - ER,"Moradabad, Uttar Pradesh",28.8386481,78.7733286
+131,Uttar Pradesh,Etah,FMCG-ETAH - ER,"Etah, Uttar Pradesh",27.5625106,78.6654148
+132,Uttar Pradesh,Agra,FMCG-AGRA - ER,"Agra, Uttar Pradesh",27.1766701,78.00807449999999
+133,Uttar Pradesh,Shahjahanpur,FMCG-SHAHJAHANPUR - ER,"Shahjahanpur, Uttar Pradesh",27.8753399,79.9147268
+134,Uttar Pradesh,Firozabad,MD-FMCG-FIROZABAD - AJA,"Firozabad, Uttar Pradesh",27.1591961,78.3957331
+135,Haryana,Jind,FMCG-JIND - ER,"Jind, Haryana",29.325508,76.29979089999999
+136,Haryana,Bhiwani,FMCG-HARYANA-BHIWANI - ER,"Bhiwani, Haryana",28.7974684,76.1322058
+137,Rajasthan,Kishangarh Renwal,FMCG-KISHANGARH RENWAL - ER,"Kishangarh Renwal, Rajasthan",27.1622986,75.35787789999999
+138,Rajasthan,Borawar,FMCG-BORAWAR - ER,"Borawar, Rajasthan",27.0266498,74.6836958
+139,Rajasthan,Shrimadhopur,FMCG-SHRIMADHOPUR - ER,"Shrimadhopur, Rajasthan",27.4727934,75.59687149999999
+140,Rajasthan,Shahpura,FMCG-SHAHPURA - ER,"Shahpura, Rajasthan",27.3842893,75.9611437
+141,Rajasthan,Todabhim,FMCG-TODABHIM - ER,"Todabhim, Rajasthan",26.9166942,76.8158718
+142,Rajasthan,Kekri,FMCG-KEKRI - ER,"Kekri, Rajasthan",25.9748064,75.1529425
+143,Rajasthan,Mandawa,FMCG-MANDAWA - ER,"Mandawa, Rajasthan",28.050017,75.14870069999999
+144,Rajasthan,Ajmer,FMCG-AJMER - ER,"Ajmer, Rajasthan",26.4498954,74.6399163
+145,Rajasthan,Dausa,FMCG-DAUSA - ER,"Dausa, Rajasthan",26.8996953,76.332411
+146,Rajasthan,Behror,FMCG-BEHROR - ER,"Behror, Rajasthan",27.8946773,76.2820297
+147,Rajasthan,Jhalawar,FMCG-JHALAWAR - ER,"Jhalawar, Rajasthan",24.5973494,76.1609838
+148,Rajasthan,Karauli,FMCG-KARAULI - ER,"Karauli, Rajasthan",26.488323,77.01614359999999
+149,Rajasthan,Malpura,FMCG-MALPURA - ER,"Malpura, Rajasthan",26.3005677,75.36966140000001
+150,Rajasthan,Phagi,FMCG-PHAGI - ER,"Phagi, Rajasthan",26.578406,75.5684254
+151,Rajasthan,Deoli,FMCG-DEOLI - ER,"Deoli, Rajasthan",25.7582176,75.38181569999999
+152,Rajasthan,Pali,FMCG-PALI - ER,"Pali, Rajasthan",25.7780623,73.331147
+153,Rajasthan,Chirawa,FMCG-CHIRAWA - ER,"Chirawa, Rajasthan",28.2415999,75.6499025
+154,Rajasthan,Aklera,FMCG-AKLERA - ER,"Aklera, Rajasthan",24.4164292,76.56905189999999
+155,Rajasthan,Khairthal,FMCG-KHAIRTHAL - ER,"Khairthal, Rajasthan",27.8011636,76.6441591
+156,Rajasthan,"Falna (M) ,",FMCG-FALNA - ER,"Falna (M) ,, Rajasthan",25.2332965,73.2452239
+157,Rajasthan,Keshoraipatan,FMCG-KESHORAIPATAN - ER,"Keshoraipatan, Rajasthan",25.2966734,75.9405178
+158,Rajasthan,Balotra,FMCG-BALOTRA - ER,"Balotra, Rajasthan",25.8302463,72.24556989999999
+159,Rajasthan,Ladnu,FMCG-LADNU - ER,"Ladnu, Rajasthan",27.6442908,74.38806989999999
+160,Rajasthan,Gangapur City,FMCG-GANGAPUR - ER,"Gangapur City, Rajasthan",26.4833211,76.73400939999999
+161,Rajasthan,Jodhpur,FMCG-CO-JODHPUR - ER,"Jodhpur, Rajasthan",26.2389469,73.02430939999999
+162,Rajasthan,Sawai Madhopur,FMCG-SAWAI MADHOPUR - ER,"Sawai Madhopur, Rajasthan",26.012373,76.3560109
+163,Rajasthan,Beawar,FMCG-BEAWAR - ER,"Beawar, Rajasthan",26.104585,74.31990379999999
+164,Gujarat,Vallabh Vidyanagar,FMCG-VALLABH VIDYANAGAR - ER,"Vallabh Vidyanagar, Gujarat",22.5459097,72.92939439999999
+165,Gujarat,Patan,FMCG-PATAN - ER,"Patan, Gujarat",23.8500156,72.1210274
+166,Gujarat,Dakor (M + OG),FMCG-DAKOR - ER,"Dakor (M + OG), Gujarat",22.7545035,73.1497121
+167,Gujarat,Radhanpur,FMCG-RADHANPUR - ER,"Radhanpur, Gujarat",23.8286354,71.6139348
+168,Gujarat,Modasa,FMCG-MODASA - ER,"Modasa, Gujarat",23.464311,73.29875779999999
+169,Gujarat,Mehsana,FMCG-MEHSANA - ER,"Mehsana, Gujarat",23.5879607,72.36932519999999
+170,Gujarat,Deesa,FMCG-DEESA - ER,"Deesa, Gujarat",24.2585055,72.1906739
+171,Gujarat,Viramgam,FMCG-VIRAMGAM - ER,"Viramgam, Gujarat",23.1249646,72.0535829
+172,Gujarat,Palanpur,FMCG-PALANPUR - ER,"Palanpur, Gujarat",24.1724338,72.434581
+173,Gujarat,Tharad,FMCG-THARAD - ER,"Tharad, Gujarat",24.396687,71.6271514
+174,Gujarat,Himatnagar,FMCG-HIMATNAGAR - ER,"Himatnagar, Gujarat",23.5968857,72.9630378
+175,Gujarat,Halol,FMCG-HALOL - ER,"Halol, Gujarat",22.5045713,73.4713666
+176,Gujarat,Dehgam,FMCG-DEHGAM - ER,"Dehgam, Gujarat",23.1637196,72.81024500000001
+177,Gujarat,Surendranagar Dudhrej,FMCG-SURENDRANAGAR - ER,"Surendranagar Dudhrej, Gujarat",22.7251204,71.63695419999999
+178,Gujarat,Chhota Udaipur,FMCG-CHHOTA UDAIPUR - ER,"Chhota Udaipur, Gujarat",22.3084941,74.0119993
+179,Gujarat,Jhalod,FMCG-JHALOD - ER,"Jhalod, Gujarat",23.0981684,74.1643497
+180,Gujarat,Dahod,FMCG-DAHOD - ER,"Dahod, Gujarat",22.8344992,74.26061849999999
+181,Gujarat,Karjan,FMCG-KARJAN - ER,"Karjan, Gujarat",22.0534997,73.1201988
+182,Gujarat,Godhra,FMCG-GODHRA - ER,"Godhra, Gujarat",22.7788044,73.6142795
+183,Gujarat,Chotila,FMCG-CHOTILA - ER,"Chotila, Gujarat",22.424833,71.19621
+184,Gujarat,Botad,FMCG-BOTAD - ER,"Botad, Gujarat",22.1722509,71.663622
+185,Uttar Pradesh,Varanasi,FMCG-VARANASI - ER,"Varanasi, Uttar Pradesh",25.3176452,82.9739144
+186,Uttar Pradesh,Chandauli,FMCG-CHANDAULI - ER,"Chandauli, Uttar Pradesh",25.2604696,83.264538
+187,Uttar Pradesh,Deoria,FMCG-DEORIA - ER,"Deoria, Uttar Pradesh",26.5024286,83.7791283
+188,Uttar Pradesh,Allahabad,FMCG-ALLAHABAD - ER,"Allahabad, Uttar Pradesh",25.4358011,81.846311
+189,Uttar Pradesh,Jaunpur,FMCG-JAUNPUR - ER,"Jaunpur, Uttar Pradesh",25.7464145,82.68370329999999
+190,Uttar Pradesh,Fatehpur,FMCG-FATEHPUR - ER,"Fatehpur, Uttar Pradesh",25.9209503,80.7996035
+191,Uttar Pradesh,Kanpur,FMCG-CO-KANPUR-CRC - ER,"Kanpur, Uttar Pradesh",26.449923,80.3318736
+192,Uttar Pradesh,Raebareli,FMCG-RAE BARELI - ER,"Raebareli, Uttar Pradesh",26.2144806,81.25281389999999
+193,Uttar Pradesh,Khushinagar,FMCG-KUSHINAGAR - ER,"Khushinagar, Uttar Pradesh",26.7398787,83.8869698
+194,Uttar Pradesh,Lucknow,FMCG-LUCKNOW - ER,"Lucknow, Uttar Pradesh",26.8466937,80.94616599999999
+195,Uttar Pradesh,Gonda,FMCG-GONDA - ER,"Gonda, Uttar Pradesh",27.1339874,81.96189790000001
+196,Uttar Pradesh,Faizabad,FMCG-FAIZABAD - ER,"Faizabad, Uttar Pradesh",26.7729751,82.1457934
+197,Uttar Pradesh,Basti,FMCG-BASTI - ER,"Basti, Uttar Pradesh",26.8139844,82.7629893
+198,Uttar Pradesh,Gorakhpur,FMCG-GORAKHPUR - ER,"Gorakhpur, Uttar Pradesh",26.7605545,83.3731675
+199,Uttar Pradesh,Unnao,FMCG-UNNAO - ER,"Unnao, Uttar Pradesh",26.5393449,80.4878195
+200,Uttar Pradesh,Bela Pratapgarh,FMCG-BELA PRATAPGARH - ER,"Bela Pratapgarh, Uttar Pradesh",25.9203366,81.9912007
+201,Maharashtra,Akluj,FMCG-AKLUJ - ER,"Akluj, Maharashtra",17.882445,75.0205283
+202,Maharashtra,Barshi,FMCG-BARSHI - ER,"Barshi, Maharashtra",18.2333856,75.6941478
+203,Maharashtra,Nanded,FMCG-NANDED - ER,"Nanded, Maharashtra",19.1485289,77.3191471
+204,Maharashtra,Sillod,FMCG-SILLOD - ER,"Sillod, Maharashtra",20.3079382,75.65281159999999
+205,Maharashtra,Shrigonda,FMCG-SHRIGONDA - ER,"Shrigonda, Maharashtra",18.6175439,74.6981267
+206,Maharashtra,Parbhani,FMCG-PARBHANI - ER,"Parbhani, Maharashtra",19.2608384,76.774776
+207,Maharashtra,Katol,FMCG-KATOL - ER,"Katol, Maharashtra",21.273289,78.5859566
+208,Maharashtra,Jamkhed,FMCG-JAMKHED - ER,"Jamkhed, Maharashtra",18.7380109,75.31206399999999
+209,Maharashtra,Nagpur,FMCG-NAGPUR - ER,"Nagpur, Maharashtra",21.1458004,79.0881546
+210,Maharashtra,Baramati,FMCG-BARAMATI - ER,"Baramati, Maharashtra",18.1791791,74.6077971
+211,Maharashtra,Ahmednagar,FMCG-AHMEDNAGAR - ER,"Ahmednagar, Maharashtra",19.0948287,74.74797889999999
+212,Maharashtra,Aurangabad,FMCG-CO-AURANGABAD-CRC - ER,"Aurangabad, Maharashtra",19.8761653,75.3433139
+213,Maharashtra,Vaijapur,FMCG-VAIJAPUR - ER,"Vaijapur, Maharashtra",19.9256818,74.72848119999999
+214,Maharashtra,Talegaon,FMCG-TALEGAON DABHADE - ER,"Talegaon, Maharashtra",18.7375763,73.67466259999999
+215,Maharashtra,Hingoli,FMCG-HINGOLI - ER,"Hingoli, Maharashtra",19.7173703,77.1493722
+216,Maharashtra,Udgir,FMCG-UDGIR - ER,"Udgir, Maharashtra",18.3942882,77.11260089999999
+217,Maharashtra,Latur,FMCG-LATUR - ER,"Latur, Maharashtra",18.4087934,76.5603828
+218,Maharashtra,Solapur,FMCG-SOLAPUR-R-URBAN - ER,"Solapur, Maharashtra",17.6599188,75.9063906
+219,Maharashtra,Palghar,FMCG-PALGHAR - ER,"Palghar, Maharashtra",19.6967136,72.769885
+220,Maharashtra,Shirur,FMCG-SHIRUR - ER,"Shirur, Maharashtra",18.8249767,74.3775524
+221,Maharashtra,Karad,FMCG-KARAD - ER,"Karad, Maharashtra",17.277693,74.1843535
+222,Maharashtra,Karmala,FMCG-KARMALA - ER,"Karmala, Maharashtra",18.4044833,75.1953934
+223,Maharashtra,Shrirampur,FMCG-SHRIRAMPUR - ER,"Shrirampur, Maharashtra",19.6194767,74.65674070000001
+224,Maharashtra,Pandharpur,FMCG-PANDARPUR - ER,"Pandharpur, Maharashtra",17.6805816,75.31550349999999
+225,Maharashtra,Vita,FMCG-VITA - ER,"Vita, Maharashtra",17.2751726,74.53571269999999
+226,Maharashtra,Kolhapur,FMCG-KOLHAPUR - ER,"Kolhapur, Maharashtra",16.7049873,74.24325270000001
+227,Maharashtra,Hadgaon,FMCG-HADGAON - ER,"Hadgaon, Maharashtra",19.4980701,77.6584453
+228,Maharashtra,Beed,FMCG-BEED - ER,"Beed, Maharashtra",18.990088,75.7531324
+229,Maharashtra,Bhandara,FMCG-BHANDARA - ER,"Bhandara, Maharashtra",21.177658,79.6570127
+230,Maharashtra,Satara,FMCG-SATARA - ER,"Satara, Maharashtra",17.6804639,74.018261
+231,Maharashtra,Sangli,FMCG-SANGLI - ER,"Sangli, Maharashtra",16.8523973,74.5814773
+232,Madhya Pradesh,Gwalior,FMCG-GWALIOR - ER,"Gwalior, Madhya Pradesh",26.2124007,78.1772053
+233,Madhya Pradesh,Kolar,FMCG-KOLAR_MP - ER,"Kolar, Madhya Pradesh",24.5831643,80.6701448
+234,Madhya Pradesh,Betul,FMCG-BETUL - ER,"Betul, Madhya Pradesh",21.9011601,77.8960201
+235,Madhya Pradesh,Seoni,FMCG-SEONI - ER,"Seoni, Madhya Pradesh",22.0868691,79.5434841
+236,Madhya Pradesh,Guna,FMCG-GUNA - ER,"Guna, Madhya Pradesh",24.6323648,77.3001762
+237,Madhya Pradesh,Dhar,FMCG-DHAR - ER,"Dhar, Madhya Pradesh",22.6012922,75.3024655
+238,Madhya Pradesh,Katni,FMCG-KATNI - ER,"Katni, Madhya Pradesh",23.8343441,80.38938139999999
+239,Madhya Pradesh,Ujjain,FMCG-UJJAIN - ER,"Ujjain, Madhya Pradesh",23.1764665,75.7885163
+240,Madhya Pradesh,Rewa,FMCG-REWA - ER,"Rewa, Madhya Pradesh",24.5362477,81.30369460000001
+241,Madhya Pradesh,Hoshangabad,FMCG-HOSHANGABAD - ER,"Hoshangabad, Madhya Pradesh",22.7518961,77.7288655
+242,Madhya Pradesh,Vidisha,FMCG-VIDISHA - ER,"Vidisha, Madhya Pradesh",23.5235719,77.81397179999999
+243,Madhya Pradesh,Indore,FMCG-INDORE - ER,"Indore, Madhya Pradesh",22.7195687,75.8577258
+244,Madhya Pradesh,Jabalpur,FMCG-JABALPUR - ER,"Jabalpur, Madhya Pradesh",23.1685786,79.9338798
+245,Madhya Pradesh,Sagar (MP),FMCG-SAGAR - ER,"Sagar (MP), Madhya Pradesh",23.838805,78.7378068
+246,Madhya Pradesh,Satna,FMCG-SATNA - ER,"Satna, Madhya Pradesh",24.6005075,80.8322428
+247,Madhya Pradesh,Khandwa,FMCG-KHANDWA - ER,"Khandwa, Madhya Pradesh",21.8314037,76.3497612
+248,Madhya Pradesh,Mandsaur,FMCG-MANDSAUR - ER,"Mandsaur, Madhya Pradesh",24.0734356,75.0679018
+249,Chhattisgarh,Rajnandgaon,FMCG-RAJNANDGAON - ER,"Rajnandgaon, Chhattisgarh",21.0976046,81.0337066
+250,Chhattisgarh,Durg,FMCG-DURG - ER,"Durg, Chhattisgarh",21.1904494,81.2849169
+251,Chhattisgarh,Raipur,FMCG-RAIPUR - ER,"Raipur, Chhattisgarh",21.2513844,81.62964130000002
+252,Chhattisgarh,Kawardha,FMCG-KAWARDHA - ER,"Kawardha, Chhattisgarh",22.0106092,81.23592819999999
+253,West Bengal,Basirhat,FMCG-BASIRHAT - ER,"Basirhat, West Bengal",22.6590646,88.85720470000001
+254,West Bengal,Siliguri,FMCG-SILIGURI - ER,"Siliguri, West Bengal",26.7271012,88.39528609999999
+255,West Bengal,Haldia,FMCG-HALDIA - ER,"Haldia, West Bengal",22.0627164,88.0832934
+256,West Bengal,Tarakeswar,FMCG-TARAKESWAR - ER,"Tarakeswar, West Bengal",22.8786554,88.01429399999999
+257,West Bengal,Barddhaman,FMCG-BARDDHAMAN - ER,"Barddhaman, West Bengal",23.2324214,87.8614793
+258,West Bengal,Jalpaiguri,FMCG-JALPAIGURI - ER,"Jalpaiguri, West Bengal",26.5214579,88.7195567
+259,West Bengal,Cooch behar,FMCG-COOCH BEHAR - ER,"Cooch behar, West Bengal",26.3452397,89.4482079
+260,West Bengal,Sainthia,FMCG-SAINTHIA - ER,"Sainthia, West Bengal",23.9486953,87.679312
+261,West Bengal,Bankura,FMCG-BANKURA - ER,"Bankura, West Bengal",23.2312686,87.07838749999999
+262,West Bengal,Purulia,FMCG-PURULIA - ER,"Purulia, West Bengal",23.2482587,86.49965460000001
+263,West Bengal,Contai,FMCG-CONTAI - ER,"Contai, West Bengal",21.778109,87.7517427
+264,West Bengal,Raghunathpur,FMCG-RAGHUNATHPUR - ER,"Raghunathpur, West Bengal",23.5343795,86.6686635
+265,West Bengal,Kolaghat,FMCG-KOLAGHAT - ER,"Kolaghat, West Bengal",22.4352325,87.8606813
+266,West Bengal,Berhampore,FMCG-BERHAMPORE - ER,"Berhampore, West Bengal",24.0982607,88.268411
+267,West Bengal,Baruipur,FMCG-BARUIPUR - ER,"Baruipur, West Bengal",22.3599251,88.43254619999999
+268,West Bengal,Dhupguri,FMCG-DHUPGURI - ER,"Dhupguri, West Bengal",26.5821321,89.0051441
+269,West Bengal,HABRA,FMCG-HABRA - ER,"HABRA, West Bengal",22.8408094,88.6535105
+270,West Bengal,Ranaghat,FMCG-RANAGHAT - ER,"Ranaghat, West Bengal",23.1744548,88.5605732
+271,West Bengal,Malda,FMCG-MALDA - ER,"Malda, West Bengal",25.0108408,88.14109669999999
+272,West Bengal,RAMPURHAT,FMCG-RAMPURHAT - ER,"RAMPURHAT, West Bengal",24.1744845,87.7793421
+273,West Bengal,Katwa,FMCG-KATWA - ER,"Katwa, West Bengal",23.6403783,88.1299373
+274,West Bengal,Bethuadahari,FMCG-BETHUADAHARI - ER,"Bethuadahari, West Bengal",23.5989344,88.39731789999999
+275,West Bengal,Medinipur,FMCG-MEDINIPUR - ER,"Medinipur, West Bengal",22.4256613,87.3198819
+276,West Bengal,Lalgola,FMCG-LALGOLA - ER,"Lalgola, West Bengal",24.4133349,88.26071879999999
+277,West Bengal,Canning,FMCG-CANNING - ER,"Canning, West Bengal",22.3103729,88.65789679999999
+278,West Bengal,Raniganj,FMCG-RANIGANJ - ER,"Raniganj, West Bengal",23.6233888,87.1142646
+279,Maharashtra,Amalner,FMCG-AMALNER - ER,"Amalner, Maharashtra",21.0419208,75.0581943
+280,Maharashtra,Chalisgaon,FMCG-CHALISGAON - ER,"Chalisgaon, Maharashtra",20.4619475,75.00632879999999
+281,Maharashtra,Akola,FMCG-AXKL - ER,"Akola, Maharashtra",20.7002159,77.0081678
+282,Maharashtra,Jalgaon,FMCG-JALGAON_JAMOD - ER,"Jalgaon jamod, Maharashtra",21.0474594,76.5314817
+283,Maharashtra,Morshi,FMCG-MORSHI - ER,"Morshi, Maharashtra",21.3241951,78.0138306
+284,Maharashtra,Shevgaon,FMCG-SHEVGAON - ER,"Shevgaon, Maharashtra",19.350367,75.21937199999999
